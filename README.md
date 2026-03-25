@@ -2,6 +2,7 @@
 
 💻☕ Desenvolvedora em formação | Front-end
 
+
 😍 Apaixonada por tecnologia e café
 
 
