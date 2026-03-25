@@ -1,4 +1,4 @@
-😄 Olá, eu sou a Milena Cardim
+😄 Olá, eu sou  Milena Cardim
 
 💻☕ Desenvolvedora em formação | Front-end
 
