@@ -11,9 +11,11 @@ Sou focada em desenvolvimento Front-end, criando interfaces modernas, responsiva
 
 Estou sempre buscando evoluir minhas habilidades, aprender novas tecnologias e desenvolver projetos práticos que fortaleçam meu conhecimento.
 
-📈 Estatísticas
+ 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mia-Cardim&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mia-Cardim&show_icons=true&theme=radical&locale=pt-br)
+
+ 💻 Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mia-Cardim&layout=compact&theme=radical)
 
